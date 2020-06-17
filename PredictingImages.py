@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug  7 20:08:49 2018
-
-@author: Sam
-"""
 
 #if want to load the saved model
 from keras.models import load_model
